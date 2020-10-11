@@ -10,11 +10,11 @@ See the code in `generate_labels.py`.
 
 ### Download pretrained ResNet-50 model
 
-You can grab our pretrained ResNet-50 model from [here](https://drive.google.com/file/d/1BH9yn7daO4V3fPQ142sREQVh3rT2CllE/view?usp=sharing) (~226MB). put the downloaded file `resnet50bt.pth.tar` in the directory "pretrained".
+You can grab our pretrained ResNet-50 model from [here](https://drive.google.com/file/d/1BH9yn7daO4V3fPQ142sREQVh3rT2CllE/view?usp=sharing) (~226MB). Put the downloaded file `resnet50bt.pth.tar` in the directory "pretrained". This model is trained by [Bit toolkit](https://github.com/google-research/big_transfer).
 
 ### Download the features of the candidates images
 
-You can grab the features of the candidates images from [here](https://drive.google.com/file/d/1tyZEryLWJ_fG4e-XJgDaMDYEi1zf35X6/view?usp=sharing) (~2.1GB). put the downloaded file `feat_resnet50bt_mac.pkl` in the directory "feature".
+You can grab the features of the candidates images from [here](https://drive.google.com/file/d/1tyZEryLWJ_fG4e-XJgDaMDYEi1zf35X6/view?usp=sharing) (~2.1GB). Put the downloaded file `feat_resnet50bt_mac.pkl` in the directory "feature".
 
 ### Run the script `predict`
 
@@ -22,4 +22,4 @@ You can grab the features of the candidates images from [here](https://drive.goo
 
 ## Acknowledges
 
-Code is adapted from [here] (https://github.com/gniknoil/Perfect500K-Beauty-and-Personal-Care-Products-Retrieval-Challenge).
+Some of the code is adapted from [here] (https://github.com/gniknoil/Perfect500K-Beauty-and-Personal-Care-Products-Retrieval-Challenge).

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+if [ $# -eq 2 ]; then
+    test_images_path="$1"
+    predictions_path="$2"
+else
+    echo "invalid arguments"
+    exit 1
+fi
+
+/root/anaconda3/bin/python /challenge/search2.py "$1" "$2"
