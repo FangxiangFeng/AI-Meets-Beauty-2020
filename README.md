@@ -10,7 +10,7 @@ See the code in `generate_labels.py`.
 
 ### Download pretrained ResNet-50 model
 
-You can grab our pretrained ResNet-50 model from [here](https://drive.google.com/file/d/1BH9yn7daO4V3fPQ142sREQVh3rT2CllE/view?usp=sharing) (~226MB). Put the downloaded file `resnet50bt.pth.tar` in the directory "pretrained". This model is trained by [Bit toolkit](https://github.com/google-research/big_transfer).
+You can grab our pretrained ResNet-50 model from [here](https://drive.google.com/file/d/1BH9yn7daO4V3fPQ142sREQVh3rT2CllE/view?usp=sharing) (~226MB). Put the downloaded file `resnet50bt.pth.tar` in the directory "pretrained". This model is trained by [BiT toolkit](https://github.com/google-research/big_transfer).
 
 ### Download the features of the candidates images
 
