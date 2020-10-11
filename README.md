@@ -20,4 +20,6 @@ You can grab the features of the candidates images from [here](https://drive.goo
 
 
 
+## Acknowledges
 
+Code is adapted from [here] (https://github.com/gniknoil/Perfect500K-Beauty-and-Personal-Care-Products-Retrieval-Challenge).
