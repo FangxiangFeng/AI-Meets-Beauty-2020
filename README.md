@@ -1,6 +1,6 @@
 # AI-Meets-Beauty-2020
 
-This repository contains the implementation for paper[*Learning Visual Features from Product Title for Image Retrieval*](https://dl.acm.org/doi/10.1145/3394171.3416296). The paper introduces a method to retrieve product images by image query. The key idea of our method is to convert the product title to discrete labels as the semantic supervised signals of image feature learning. This method achieves the fourth position in the Grand Challenge of AI Meets Beauty in 2020 ACM Multimedia by using only a single ResNet-50 model without any human annotations and pre-processing or post-processing tricks.
+This repository contains the implementation for paper [*Learning Visual Features from Product Title for Image Retrieval*](https://dl.acm.org/doi/10.1145/3394171.3416296). The paper introduces a method to retrieve product images by image query. The key idea of our method is to convert the product title to discrete labels as the semantic supervised signals of image feature learning. This method achieves the fourth position in the Grand Challenge of AI Meets Beauty in 2020 ACM Multimedia by using only a single ResNet-50 model without any human annotations and pre-processing or post-processing tricks.
 
 # Convert the product title to discrete labels
 
@@ -22,6 +22,6 @@ You can grab the features of the candidates images from [here](https://drive.goo
 
 ## Acknowledges
 
-Some of the code is adapted from [here] (https://github.com/gniknoil/Perfect500K-Beauty-and-Personal-Care-Products-Retrieval-Challenge).
+Some of the code is adapted from [here](https://github.com/gniknoil/Perfect500K-Beauty-and-Personal-Care-Products-Retrieval-Challenge).
 
 
